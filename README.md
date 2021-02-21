@@ -1,7 +1,7 @@
 # Very short description of the package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/frog/php-curl-sai.svg?style=flat-square)](https://packagist.org/packages/frog/php-curl-sai)
-[![Build Status](https://img.shields.io/travis/frog/php-curl-sai/master.svg?style=flat-square)](https://travis-ci.org/frog/php-curl-sai)
+[![Build Status](https://img.shields.io/travis/frog/php-curl-sai/master.svg?style=flat-square)](https://travis-ci.com/github/frogtechnologies/php-curl-sai)
 [![Quality Score](https://img.shields.io/scrutinizer/g/frog/php-curl-sai.svg?style=flat-square)](https://scrutinizer-ci.com/g/frog/php-curl-sai)
 [![Total Downloads](https://img.shields.io/packagist/dt/frog/php-curl-sai.svg?style=flat-square)](https://packagist.org/packages/frog/php-curl-sai)
 
