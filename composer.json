@@ -1,0 +1,42 @@
+{
+    "name": "frog/php-curl-sai",
+    "description": "A SAI(Standalone interface) to enable stubbing of curl requests.",
+    "keywords": [
+        "frog",
+        "php-curl-sai"
+    ],
+    "homepage": "https://github.com/frog/php-curl-sai",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Miller Adulu",
+            "email": "milleradulu@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FROG\\PhpCurlSai\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "FROG\\PhpCurlSai\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
