@@ -2,7 +2,6 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/frog/php-curl-sai.svg?style=flat-square)](https://packagist.org/packages/frog/php-curl-sai)
 [![Build Status](https://img.shields.io/travis/frog/php-curl-sai/master.svg?style=flat-square)](https://travis-ci.com/github/frogtechnologies/php-curl-sai)
-[![Quality Score](https://img.shields.io/scrutinizer/g/frog/php-curl-sai.svg?style=flat-square)](https://scrutinizer-ci.com/g/frog/php-curl-sai)
 [![Total Downloads](https://img.shields.io/packagist/dt/frog/php-curl-sai.svg?style=flat-square)](https://packagist.org/packages/frog/php-curl-sai)
 
 This is a minimal package forked from [m-ender/php-SAI](https://github.com/m-ender/php-SAI) aimed at enabling a simplified approach to stubbing of curl requests in php projects. The main changes it underwent were:
