@@ -14,7 +14,7 @@ This is a minimal package forked from [m-ender/php-SAI](https://github.com/m-end
 You can install the package via composer:
 
 ```bash
-composer require frog/php-curl-sai
+composer require frog/php-curl-sai:1.0.0
 ```
 
 ## Usage
