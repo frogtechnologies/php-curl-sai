@@ -71,7 +71,6 @@ class SAI_CurlStub implements SAI_CurlInterface
         if ($handle->options[CURLOPT_RETURNTRANSFER])
             return $response;
 
-        echo $response;
         return true;
     }
 
