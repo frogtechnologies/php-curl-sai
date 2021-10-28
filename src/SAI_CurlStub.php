@@ -367,6 +367,7 @@ class SAI_CurlStub implements SAI_CurlInterface
         CURLINFO_STARTTRANSFER_TIME => 'starttransfer_time',
         CURLINFO_REDIRECT_COUNT => 'redirect_count',
         CURLINFO_REDIRECT_TIME => 'redirect_time',
+        CURLINFO_REDIRECT_URL => 'redirect_url',
         CURLINFO_SIZE_UPLOAD => 'size_upload',
         CURLINFO_SIZE_DOWNLOAD => 'size_download',
         CURLINFO_SPEED_DOWNLOAD => 'speed_download',
